@@ -1,16 +1,14 @@
-## Hi there 👋
+## BOAS VINDAS AO MEU PERFIL 🌸
 
-<!--
-**3B109949195/3B109949195** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Kauã Dmingos
 
-Here are some ideas to get you started:
+- estou estudando na [ALURA](https://www.alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- estou estudando a liguagem de javascript
+
+- este perfil irei uzalo para conpartilhar prjetos meus
+
+  ## você pode entrar em contato comigo 📧
+
+  domingoskaua37@gmail.com
+
